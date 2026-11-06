@@ -1,5 +1,5 @@
-console.log("Hello, World!");
+console.log("welcome to the git playlist");
 
 for (let i = 0; i < 5; i++) {
-  text += "The number " + i + "<br>";
+  text += "The number is " + i + "<br>";
 }
